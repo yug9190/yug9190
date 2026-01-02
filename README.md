@@ -1,28 +1,126 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Naveen Saini
-=====================================================================================================================================
+<!-- TOP WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Naveen%20Saini&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-Technical analyst
------------------
-
-In this role, I have successfully delivered multiple cross-domain projects using Python, SQL, and Power BI, resolved complex system integration and data mismatch issues, and improved troubleshooting efficiency by 30% through custom scripts and structured documentation. I have also mentored interns, helping them understand data handling, system architecture, and debugging best practices.
-
-My technical skill set includes Python, SQL, Power BI, Tableau, ETL processes, data modeling, and basic machine learning techniques such as regression and classification. I enjoy working with data to uncover insights, automate reporting, and support data-driven decision-making. I am comfortable collaborating with both technical and non-technical stakeholders to ensure project goals are met within deadlines.
-
-* 🌍  I'm based in Jaipur, Rajasthan, India
-* 🖥️  See my portfolio at [My portfolio](https://portfolio-cyan-chi-56.vercel.app/)
-* ✉️  You can contact me at [naveensaini6780@gmail.com](mailto:naveensaini6780@gmail.com )
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=24&
+  duration=3000&
+  pause=1000&
+  color=38BDF8&
+  center=true&
+  vCenter=true&
+  width=600&
+  lines=Technical+Analyst;
+  Python+%7C+SQL+%7C+Power+BI;
+  Data+Analytics+%26+Automation;
+  Turning+Data+Into+Insights" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/yug9190" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/naveen-saini-367773216" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Support Me
+## 👋 About Me
 
-<ul style="list-style-type: none; margin: 0;">
+I'm **Naveen Saini**, a **Technical Analyst** with hands-on experience in  
+**Python, SQL, Power BI, ETL pipelines, and data modeling**.
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/yug9190"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+I love solving **real-world data & system problems**, automating workflows,  
+and helping teams make **data-driven decisions faster**.
 
-</ul>
+📈 **Impact Highlights**
+- Improved troubleshooting efficiency by **30%** using Python scripts  
+- Delivered **cross-domain projects** (data + systems) end-to-end  
+- Mentored interns on data handling, debugging & best practices  
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
+
+## 🧠 What I Do
+
+- 📊 Build interactive dashboards using **Power BI & Tableau**
+- 🐍 Automate reporting & workflows with **Python**
+- 🗄️ Write optimized queries using **SQL (MySQL, Oracle, MongoDB)**
+- 🔄 Design & troubleshoot **ETL pipelines**
+- 🧩 Resolve system integration & data mismatch issues
+- 👨‍🏫 Mentor interns & junior analysts
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,html,django,figma,vscode&theme=dark" />
+</p>
+
+**Analytics & BI**
+- Power BI  
+- Tableau  
+- Data Modeling  
+- ETL Processes  
+
+**Machine Learning (Basics)**
+- Regression  
+- Classification  
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
+
+## 📌 Featured Projects
+
+- 📊 **Sales Analytics Dashboard (Power BI)**  
+- 🐍 **Python Automation for Reporting & Debugging**  
+- 🗄️ **SQL Data Cleaning & Optimization**  
+
+👉 Check pinned repositories below 👇
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yug9190&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yug9190&theme=tokyonight" />
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://portfolio-cyan-chi-56.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:naveensaini6780@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/naveen-saini-367773216" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/yug9190" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yug9190">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" />
+  </a>
+</p>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
