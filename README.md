@@ -9,7 +9,7 @@ In this role, I have successfully delivered multiple cross-domain projects using
 My technical skill set includes Python, SQL, Power BI, Tableau, ETL processes, data modeling, and basic machine learning techniques such as regression and classification. I enjoy working with data to uncover insights, automate reporting, and support data-driven decision-making. I am comfortable collaborating with both technical and non-technical stakeholders to ensure project goals are met within deadlines.
 
 * 🌍  I'm based in Jaipur, Rajasthan, India
-* 🖥️  See my portfolio at [My portfolio](http://https://portfolio-cyan-chi-56.vercel.app/)
+* 🖥️  See my portfolio at [My portfolio](https://portfolio-cyan-chi-56.vercel.app/)
 * ✉️  You can contact me at [naveensaini6780@gmail.com](mailto:naveensaini6780@gmail.com )
 
 <p align="left">
