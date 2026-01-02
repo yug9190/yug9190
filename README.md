@@ -80,20 +80,30 @@ and helping teams make **data-driven decisions faster**.
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yug9190&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yug9190&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Naveen Saini GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yug9190&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=yug9190&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="GitHub Streak"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug9190&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
+
 
 ## 🌍 Connect With Me
 
