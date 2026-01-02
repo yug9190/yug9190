@@ -1,5 +1,5 @@
-<!-- TOP WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Naveen%20Saini&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<!-- TOP ANIMATED BACKGROUND -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Naveen%20Saini&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:0f172a,100:2563eb" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
@@ -10,7 +10,7 @@
   color=38BDF8&
   center=true&
   vCenter=true&
-  width=600&
+  width=650&
   lines=Technical+Analyst;
   Python+%7C+SQL+%7C+Power+BI;
   Data+Analytics+%26+Automation;
@@ -21,33 +21,34 @@
 
 ## 👋 About Me
 
-I'm **Naveen Saini**, a **Technical Analyst** with hands-on experience in  
-**Python, SQL, Power BI, ETL pipelines, and data modeling**.
+I’m **Naveen Saini**, a **Technical Analyst** passionate about  
+data, automation, and system problem-solving.
 
-I love solving **real-world data & system problems**, automating workflows,  
-and helping teams make **data-driven decisions faster**.
+I work on transforming **raw data into insights**, automating reports,  
+and resolving **complex integration & data mismatch issues**.
 
-📈 **Impact Highlights**
-- Improved troubleshooting efficiency by **30%** using Python scripts  
-- Delivered **cross-domain projects** (data + systems) end-to-end  
-- Mentored interns on data handling, debugging & best practices  
+📍 Jaipur, Rajasthan, India  
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
+<!-- SOFT DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212750125-8b4c4aaf-2c2f-4b4a-bb79-efab6b6db6d4.gif" width="100%" />
 
 ## 🧠 What I Do
 
-- 📊 Build interactive dashboards using **Power BI & Tableau**
-- 🐍 Automate reporting & workflows with **Python**
-- 🗄️ Write optimized queries using **SQL (MySQL, Oracle, MongoDB)**
-- 🔄 Design & troubleshoot **ETL pipelines**
-- 🧩 Resolve system integration & data mismatch issues
-- 👨‍🏫 Mentor interns & junior analysts
+- 📊 Interactive dashboards using **Power BI & Tableau**
+- 🐍 Automation & scripting with **Python**
+- 🗄️ Optimized queries using **SQL (MySQL, Oracle, MongoDB)**
+- 🔄 ETL pipeline design & troubleshooting
+- 🧩 System integration & data issue resolution
+- 👨‍🏫 Mentoring interns & junior analysts
+
+📈 **Impact:** Improved troubleshooting efficiency by **30%**
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
+<!-- GRADIENT BACKGROUND STRIP -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=0:38bdf8,100:6366f1" />
 
 ## 🛠️ Tech Stack
 
@@ -67,45 +68,20 @@ and helping teams make **data-driven decisions faster**.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
+<!-- PARTICLE STYLE ANIMATION -->
+<img src="https://user-images.githubusercontent.com/74038190/216656980-fb8a5cbb-6a7f-4df1-b5e6-8a3c4b5c64b8.gif" width="100%" />
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
-- 📊 **Sales Analytics Dashboard (Power BI)**  
-- 🐍 **Python Automation for Reporting & Debugging**  
-- 🗄️ **SQL Data Cleaning & Optimization**  
+- 📊 Sales & Business Analytics Dashboards  
+- 🐍 Python Automation for Reporting & Debugging  
+- 🗄️ SQL Data Cleaning & Optimization Projects  
 
 👉 Check pinned repositories below 👇
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750503-2f6e4c55-98d4-4d3d-8bd8-4d10b67c6b3b.gif" width="100%" />
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yug9190&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Naveen Saini GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=yug9190&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yug9190&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
-
-
-
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://portfolio-cyan-chi-56.vercel.app/" target="_blank">
@@ -118,7 +94,7 @@ and helping teams make **data-driven decisions faster**.
     <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/yug9190" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -132,5 +108,5 @@ and helping teams make **data-driven decisions faster**.
   </a>
 </p>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
+<!-- FOOTER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:0f172a" />
