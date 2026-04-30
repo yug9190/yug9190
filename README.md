@@ -78,6 +78,7 @@ I work on:
 
 - 📊 Business & Sales Analytics Dashboards
 - <img width="776" height="445" alt="image" src="https://github.com/user-attachments/assets/074900f6-76c8-4042-97ba-e5c531ada2db" />
+<img width="975" height="524" alt="image" src="https://github.com/user-attachments/assets/efdb44ee-e587-4d8b-92df-d011ac4d18fc" />
 
 - 🐍 Python Automation Scripts  
 - 🗄️ SQL Data Cleaning & Optimization  
